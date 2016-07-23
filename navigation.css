@@ -1,0 +1,8 @@
+a:hover{
+	color: blue;
+	background-color: orange;
+}
+a:active{
+	padding-left: 5px;
+	padding-right: 5px;
+}
